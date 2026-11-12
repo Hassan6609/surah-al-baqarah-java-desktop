@@ -1,0 +1,1 @@
+arabic.txt and urdu.txt will appear in this folder after the first-time setup.
